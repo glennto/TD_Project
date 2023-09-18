@@ -14,6 +14,6 @@ in ovens, kilns, etc.
 This mod is currently running on the authors prototype but specific details have not yet been posted.
 
 Note that the mod will consist of a new software upload (backward compatable to the original design)
-and details on addong a small daughter board/panel connector to the UNO board/case to interface the thermocouple.
+and details on adding the required daughter board/panel connector to the UNO board/case to interface the thermocouple.
 
 In the interim, interested parties can contact the author for details (glennt@palmnet.net)
